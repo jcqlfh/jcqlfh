@@ -126,6 +126,17 @@
 <br/>
 
 ## 💼 Professional Experience (Last 3)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="SoftwareMind" src="https://media.licdn.com/dms/image/v2/C4E0BAQE5QBG-mhja9g/company-logo_200_200/company-logo_200_200/0/1630637271377/thoughtworks_logo"/>](https://www.thoughtworks.com/)
+&nbsp;
+**ThoughtWorks** \
+&nbsp;
+[**ThoughtWorks**](https://www.thoughtworks.com/) • Full-time \
+&nbsp;
+2024 - present\
+&nbsp;
+Technologies: `C#`, `Next.js`, `Google Cloud`, `Terraform`, `TDD`
 
 <br/>
 
@@ -143,7 +154,7 @@ Technologies: `C#`, `Blazor`, `WPF`, `SignalR`, `Azure Service Bus`, `MVVM`
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Atlantico Institute" src="https://www.atlantico.com.br/wp-content/uploads/2018/01/cropped-oie_30174851xg1xpNXI-192x192.png"/>](https://atlantico.com.br/)
+[<img align="left" height="94px" width="94px" alt="Atlantico Institute" src="https://media.licdn.com/dms/image/v2/D4D0BAQE-u4yfpq85ig/company-logo_200_200/company-logo_200_200/0/1686749919835"/>](https://atlantico.com.br/)
 &nbsp;
 **Software Engineer** \
 &nbsp;
@@ -155,19 +166,6 @@ Technologies: `C#`, `.NET`, `Angular`, `REST Microservices`, `CQRS`, `MediatR`, 
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="CPQi" src="https://exadel.com/wp-content/themes/common/assets/favicons/browser-favicon.png"/>](https://exadel.com/)
-&nbsp;
-**Software Engineer** \
-&nbsp;
-[**CPQI (now Exadel)**](https://exadel.com/) • Full-time \
-&nbsp;
-2016 - 2020 \
-&nbsp;
-Technologies: `.NET`, `ASP .NET MVC`, `Web API`, `T/SQL`, `Sybase`, `SQL Server`, `VBA`, `MS Excel`, `MS Access`, `Java`, `JAXB`.
-
-<br/>
-
-
 ---
 
 <br/>
@@ -176,7 +174,7 @@ Technologies: `.NET`, `ASP .NET MVC`, `Web API`, `T/SQL`, `Sybase`, `SQL Server`
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://www.pucminas.br/Style Library/CENTRAL/img/brasao-pucminas.png"/>](https://www.pucminas.br/)
+[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://media.licdn.com/dms/image/v2/D4D0BAQEDKKi5sGbJ2Q/company-logo_200_200/company-logo_200_200/0/1730461937721/pucminas_logo"/>](https://www.pucminas.br/)
 &nbsp;
 [**PUC Minas**](https://www.pucminas.br/) \
 &nbsp;
