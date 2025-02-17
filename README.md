@@ -128,7 +128,7 @@
 ## 💼 Professional Experience (Last 3)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SoftwareMind" src="https://media.licdn.com/dms/image/v2/C4E0BAQE5QBG-mhja9g/company-logo_200_200/company-logo_200_200/0/1630637271377/thoughtworks_logo"/>](https://www.thoughtworks.com/)
+[<img align="left" width="94px" alt="ThoughtWorks" src="https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/thoughtworks-logo.svg"/>](https://www.thoughtworks.com/)
 &nbsp;
 **ThoughtWorks** \
 &nbsp;
@@ -154,7 +154,7 @@ Technologies: `C#`, `Blazor`, `WPF`, `SignalR`, `Azure Service Bus`, `MVVM`
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Atlantico Institute" src="https://media.licdn.com/dms/image/v2/D4D0BAQE-u4yfpq85ig/company-logo_200_200/company-logo_200_200/0/1686749919835"/>](https://atlantico.com.br/)
+[<img align="left" width="94px" alt="Atlantico Institute" src="https://www.atlantico.com.br/wp-content/uploads/2024/04/Logo-Atlantico.png"/>](https://atlantico.com.br/)
 &nbsp;
 **Software Engineer** \
 &nbsp;
@@ -174,7 +174,7 @@ Technologies: `C#`, `.NET`, `Angular`, `REST Microservices`, `CQRS`, `MediatR`, 
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://media.licdn.com/dms/image/v2/D4D0BAQEDKKi5sGbJ2Q/company-logo_200_200/company-logo_200_200/0/1730461937721/pucminas_logo"/>](https://www.pucminas.br/)
+[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://www.pucminas.br/Style%20Library/STATIC/img/novas/brasaocor.png"/>](https://www.pucminas.br/)
 &nbsp;
 [**PUC Minas**](https://www.pucminas.br/) \
 &nbsp;
