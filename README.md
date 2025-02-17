@@ -140,7 +140,7 @@ Technologies: `C#`, `Next.js`, `Google Cloud`, `Terraform`, `TDD`
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SoftwareMind" src="https://softwaremind.com/favicon.svg"/>](https://www.softwaremind.com/)
+[<img align="left" width="94px" alt="SoftwareMind" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakhctgUS08z4B0x7f2sBxGFY8Pfbfq9nwpA&s"/>](https://www.softwaremind.com/)
 &nbsp;
 **Software Engineer** \
 &nbsp;
