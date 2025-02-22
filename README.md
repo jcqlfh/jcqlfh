@@ -15,7 +15,7 @@
 
 <br/>
 
->  With more than 15 years of experience within the System Development field, I’ve worked using various types of tools, and technologies. I participated in different kinds of projects doing analysis, specifying or developing web, desktop, or mobile applications, web services, data integrations, and extractions; all of them using C# .NET or Java as the main programming language. Besides that, I can use the concepts of POO and design patterns well. I also worked with teams following different types of processes and methods, like Scrum, RUP, or CMMi, acting in companies of many areas such as software houses, industry, fintechs, etc.
+>  With nearly 20 years of experience as a System Analyst and Developer, I have a proven track record of delivering software solutions across diverse industries, including market research, preconstruction, fintech, and enterprise applications. Proficient in C#, Java, and modern frameworks like Blazor, Angular, and Next.js, I excel in R&D projects, migrating legacy systems to microservices and more modern architectures, with experience in Domain-Driven Design (DDD), Event-driven, and CQRS approaches. My expertise spans agile methodologies like XP, and Scrum, and encompasses DevOps practices. I have many hours working with cloud platforms like GCP and Azure, with a strong focus on continuous delivery, automated testing, and building API ecosystems, with infrastructure-as-code. I actively foster knowledge-sharing and innovation within teams, pursuing high-quality and maintainable software delivery.
 
 <br/>
 
