@@ -5,11 +5,11 @@
 
 ## 👋 Hi! I'm <strong>Jose Candido!</strong>
 <div align="left">
-  <a href="mailto:hi@jose.cx" alt="Gmail">
+  <a href="mailto:hi@jose.cx" alt="Gmail"  target="blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-round&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jcqlfh/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jcqlfh/" alt="Linkedin"  target="blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://signal.me/#p/5585981261370" alt="Signal">
+  <a href="https://signal.me/#u/jcqlfh" alt="Signal" target="blank">
   <img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff"/></a>
 
 
