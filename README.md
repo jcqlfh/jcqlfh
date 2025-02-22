@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white" /></a>
   <a href="https://signal.me/#u/jcqlfh" alt="Signal" target="_blank">
   <img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff"/></a>
-
-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/600px-Signal-Logo.svg.png
 </div>  
 
 <br/>
