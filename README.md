@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white" /></a>
   <a href="https://signal.me/#u/jcqlfh" alt="Signal" target="_blank">
   <img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff"/></a>
-  <a href=" https://wa.me/5585981261370" alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5585981261370" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
 </div>  
 
