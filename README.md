@@ -1,5 +1,5 @@
 
-<img style="width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"/>
+<img style="width:100%;" src="https://josecandi.do/pattern2.jpg"/>
 
 <br/>
 
@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white" /></a>
   <a href="https://signal.me/#u/jcqlfh" alt="Signal" target="_blank">
   <img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff"/></a>
+  <a href=" https://wa.me/5585981261370" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
 </div>  
 
 <br/>
@@ -154,7 +156,7 @@ Technologies: `C#`, `Blazor`, `WPF`, `SignalR`, `Azure Service Bus`, `MVVM`
 <br/>
 
 
-[<img align="left" width="94px" alt="Atlantico Institute" src="https://www.atlantico.com.br/wp-content/uploads/2024/04/Logo-Atlantico.png"/>](https://atlantico.com.br/)
+[<img align="left" width="94px" alt="Atlantico Institute" src="https://pbs.twimg.com/profile_images/1413230067862355973/cAOV9v6P_400x400.jpg"/>](https://atlantico.com.br/)
 &nbsp;
 **Software Engineer** \
 &nbsp;
@@ -174,7 +176,7 @@ Technologies: `C#`, `.NET`, `Angular`, `REST Microservices`, `CQRS`, `MediatR`, 
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://www.pucminas.br/Style%20Library/STATIC/img/novas/brasaocor.png"/>](https://www.pucminas.br/)
+[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWhjq0do4vYFCzxK24FqctOSYxA2Mb4orCg&s"/>](https://www.pucminas.br/)
 &nbsp;
 [**PUC Minas**](https://www.pucminas.br/) \
 &nbsp;
