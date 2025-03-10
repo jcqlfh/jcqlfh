@@ -57,7 +57,8 @@
 <br/>
 
 ### Data Storage
-<a href="#"><img height="48" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="Sql Server" title="Sql Server"/></a>&nbsp;
+<a href="#"><img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="Sql Server" title="Sql Server"/></a>&nbsp;
+<a href="#"><img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="Postgres" title="Postgres"/></a>&nbsp;
 <a href="#"><img height="48" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></a>&nbsp;
 <a href="#"><img height="48" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/></a>
 <a href="#"><img height="48" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></a>
