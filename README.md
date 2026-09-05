@@ -1,7 +1,5 @@
+<img width="605" height="148" alt="image" src="https://github.com/user-attachments/assets/23e0f6f5-a79a-40d3-b87e-f0abaae5b2b6" />
 
-<img style="width:100%;" src="https://josecandi.do/milky-way.jpg"/>
-
-<br/>
 
 ## 👋 Hi! I'm <strong>Jose Candido!</strong>
 <div align="left">
