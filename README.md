@@ -175,7 +175,7 @@ Technologies: `C#`, `.NET`, `Angular`, `REST Microservices`, `CQRS`, `MediatR`, 
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Puc Minas" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWhjq0do4vYFCzxK24FqctOSYxA2Mb4orCg&s"/>](https://www.pucminas.br/)
+[<img align="left" width="94px" height="94px" alt="Puc Minas" src="https://github.com/user-attachments/assets/27c2fc89-f24a-4808-91e6-26a378022cd4" />](https://www.pucminas.br/)
 &nbsp;
 [**PUC Minas**](https://www.pucminas.br/) \
 &nbsp;
